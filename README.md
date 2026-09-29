@@ -9,6 +9,6 @@ FP&A at Apollo GraphQL. Former PwC assurance. I build finance tools in Python fo
 - equity-tax-planner (coming): RSU withholding gap and tax-loss harvesting without wash sales from vests.
 - onchain-desk (coming): multi-chain trade tracker that writes tax lots as it trades.
 
-**Stack:** Python, DuckDB, Streamlit, n8n, a Bitcoin full node on a Mac mini, Base.
+**Stack:** Python, a Bitcoin full node on a Mac mini, Base.
 
 **Interests:** Bitcoin mining, tax and FP&A automation, agent payments (x402), land and energy.
